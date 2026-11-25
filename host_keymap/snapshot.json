@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "view": {
+    "columns": [
+      {
+        "language": "en",
+        "layoutId": "system-us",
+        "visible": true,
+        "altGr": true,
+        "altGrShift": true
+      }
+    ],
+    "open": null,
+    "keycap": [
+      "en"
+    ]
+  },
+  "layouts": []
+}
